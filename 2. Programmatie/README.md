@@ -1,4 +1,10 @@
-Voor de programmatie van mijn project, heb ik beslist om een aantal 
+# Wat vind je terug in deze folders:
+
+
+
+
+
+Voor de prorammatie van mijn project, heb ik beslist om een aantal 
 bibliotheken en functies in aparte bestanden op te maken die in het 
 hoofdbestand kunnen opgeroepen worden.
 Op die manier is mijn project gestructureerder en is de hoofdcode van mijn 
