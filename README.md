@@ -19,7 +19,7 @@ modus de wagen zich bevindt :
 - Groene led : alles verloopt correct
 - Blauwe led : de wagen is gestopt voor een dwarsstreep of voor een voorliggende auto
 - Rode led : de wagen is van het parcours geweken
-- 
+
 Dit document geeft een beknopte omschrijving van :
 - De hardware die nodig is om dit project te kunnen maken
 - Hoe de hardware in elkaar wordt gezet
