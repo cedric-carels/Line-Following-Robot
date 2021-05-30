@@ -1,9 +1,16 @@
 # Wat vind je terug in deze folders:
 
+In de folder "Hoofdcode" vind je de volledige code terug van het project voor tracking
+met witte lijn en tracking met zwarte lijn.
 
-
-
-
+In de folder "Subcode" zitten de aparte codes voor de werking van de verschillende 
+onderdelen apart.
+Het gaat om volgende bestanden :
+- Detecteren van een object
+- RGB
+- Tracking sensor
+- Motor
+- 
 Voor de prorammatie van mijn project, heb ik beslist om een aantal 
 bibliotheken en functies in aparte bestanden op te maken die in het 
 hoofdbestand kunnen opgeroepen worden.
