@@ -2,6 +2,8 @@
 
 In de folder "Hoofdcode" vind je de volledige code terug van het project voor tracking
 met witte lijn en tracking met zwarte lijn.
+- Iot_Project_blackline
+- Iot_Project_whiteline
 
 In de folder "Subcode" zitten de aparte codes voor de werking van de verschillende 
 onderdelen apart.
